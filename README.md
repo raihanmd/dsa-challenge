@@ -6,15 +6,7 @@ Halo, selamat datang di repositori ini saya! Repositori ini berisi solusi dan do
 
 - [DSA Challenge](#dsa-challenge)
   - [Daftar Isi](#daftar-isi)
-  <-- - [Tentang Challenge](#tentang-challenge) -->
   - [Struktur Repositori](#struktur-repositori)
-
-<-- ## Tentang Challenge
-
-[CodeWars](https://www.codewars.com) adalah platform latihan pemrograman yang menawarkan berbagai tantangan pemrograman dengan tingkat kesulitan yang bervariasi. Tantangan-tantangan ini membantu meningkatkan keterampilan pemrograman dan logika.
-
-Repository ini dibuat untuk mencatat perjalanan saya dalam menyelesaikan tantangan-tantangan di CodeWars selama tahun 2024.
--->
 
 ## Struktur Repositori
 
